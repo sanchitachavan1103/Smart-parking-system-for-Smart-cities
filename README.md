@@ -2,6 +2,7 @@
 
 A real-time IoT Smart Parking System built with **Python Flask**.
 
+//
 ## Features
 
 - **Live slot monitoring** — 40 parking slots, each toggleable via sensor simulation
